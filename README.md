@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chyonu
-- 👀 I’m interested in Data Science Internships
-- 🌱 I’m currently learning Data Science with Python on Coursera
-- 💞️ I’m looking to collaborate on Projects and opportunities
+- 👀 I’m a PowerBI Develpoer
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on Data Analysis Projects and opportunities; volunteer or otherwise
 - 📫 How to reach me Email: onuohachinyere200@gmail.com , Twitter: chyonu1, LinkedIn: https://www.linkedin.com/in/chinyere-onuoha-30bba9238/
 
 <!---
