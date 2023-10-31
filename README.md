@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chyonu
-- 👀 I’m a PowerBI Develpoer
+- 👀 I’m a PowerBI Data Analyst
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Analysis Projects and opportunities; volunteer or otherwise
 - 📫 How to reach me Email: onuohachinyere200@gmail.com , Twitter: chyonu1, LinkedIn: https://www.linkedin.com/in/chinyere-onuoha-30bba9238/
